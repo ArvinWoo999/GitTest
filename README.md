@@ -4,13 +4,7 @@
 
 ### 基本的使用：
 
-- 1、DataTables的默认配置：
-```
-$(document).ready(function(){
-	 $('#example').dataTable();
-});//初始化DataTables
-```
-
+# The Best Experience
 示例：http://www.guoxk.com/html/DataTables/Zero-configuration.html
 
 	得到：Printer
@@ -36,7 +30,7 @@ $(document).ready(function(){
 	- type:用于类型检测的值。通常匹配sort值。
 	- sort:获取在此单元格上进行排序的数据。
 	- undefined:获取单元格原始数据。
-- row(该行的完整数据源)
+- row(该行的完整数据源) 
 - meta(包含有关请求的单元格附加信息对象)该对象包含一下属性：
 	- row:请求的单元格的行索引
 	- col:请求的单元格的列索引
